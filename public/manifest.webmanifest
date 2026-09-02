@@ -1,0 +1,80 @@
+{
+  "id": "/",
+  "name": "Sona Chandi Live Rate",
+  "short_name": "Sona Chandi",
+  "description": "Live Gold 24K 22K 18K, Silver 999 rates in India, city rates and Jewellery GST Calculator",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#0f172a",
+  "theme_color": "#f59e0b",
+  "lang": "hi",
+  "dir": "ltr",
+  "categories": ["finance", "utilities", "shopping", "business"],
+  "icons": [
+    {
+      "src": "/logo.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/logo.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/favicon.png",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "/logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "Live Gold and Silver Rates Screen"
+    },
+    {
+      "src": "/logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "form_factor": "wide",
+      "label": "Live Gold and Silver Rates Dashboard"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Live Gold Rate",
+      "short_name": "Gold Rate",
+      "description": "Check live 24K, 22K, 18K gold rate",
+      "url": "/",
+      "icons": [{ "src": "/logo.png", "sizes": "192x192" }]
+    },
+    {
+      "name": "Jewellery Calculator",
+      "short_name": "Calculator",
+      "description": "Calculate jewellery bill with GST and making charges",
+      "url": "/",
+      "icons": [{ "src": "/logo.png", "sizes": "192x192" }]
+    }
+  ],
+  "prefer_related_applications": false
+}

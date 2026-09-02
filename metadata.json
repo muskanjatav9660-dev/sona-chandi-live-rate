@@ -1,0 +1,6 @@
+{
+  "name": "Sona Chandi Live Rate",
+  "description": "सोने और चांदी के आज के ताजा लाइव भाव, 24K 22K 18K गोल्ड, चांदी 999 रेट, शहर अनुसार भाव और ज्वेलरी जीएसटी कैलकुलेटर",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
